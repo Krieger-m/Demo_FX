@@ -1,4 +1,4 @@
-#JavaFX demo template
+#J avaFX demo template
   
 added for convenient cloning  
   
